@@ -31,6 +31,7 @@ Post-deployment evaluation of RAG systems in public-sector contexts: how to meas
 
 ## Featured projects
 
+- [**tabulaML**](https://github.com/SebastianVillegasVelasquez/tabulaML): It is a auto machine learning to uses in the web.
 - [**gestion-proyectos**](https://github.com/SebastianVillegasVelasquez/gestion-proyectos): It solves complex tree ramification project managament.
 - [**fontur-backend**](https://github.com/SebastianVillegasVelasquez/fontur-backend): A production RAG system.
 
