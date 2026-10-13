@@ -31,8 +31,8 @@ Post-deployment evaluation of RAG systems in public-sector contexts: how to meas
 
 ## Featured projects
 
-- [**project-name**](https://github.com/SebastianVillegasVelasquez/gestion-proyectos): one line on the problem it solves and the key technical decision.
-- [**project-name**](https://github.com/SebastianVillegasVelasquez/fontur-backend): one line.
+- [**gestion-proyectos**](https://github.com/SebastianVillegasVelasquez/gestion-proyectos): It solves complex tree ramification project managament.
+- [**fontur-backend**](https://github.com/SebastianVillegasVelasquez/fontur-backend): A production RAG system.
 
 ## Currently exploring
 
