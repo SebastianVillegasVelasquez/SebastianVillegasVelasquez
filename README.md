@@ -43,3 +43,8 @@ Post-deployment evaluation of RAG systems in public-sector contexts: how to meas
 [LinkedIn](https://www.linkedin.com/in/sebastian-villegas-velasquez-43268234b/) · [Email](mailto:villegasvelasquezs@gmail.com)
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SebastianVillegasVelasquez/SebastianVillegasVelasquez/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/SebastianVillegasVelasquez/SebastianVillegasVelasquez/output/github-contribution-grid-snake.svg">
+</picture>
