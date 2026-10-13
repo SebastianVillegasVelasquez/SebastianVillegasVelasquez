@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**SebastianVillegasVelasquez/SebastianVillegasVelasquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sebas 👋
+**Software Engineer · Full-Stack · Infrastructure · Applied AI**
 
-Here are some ideas to get you started:
+Colombia 🇨🇴
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## About
+
+I build and operate software end to end: backend APIs, web frontends, and the servers they run on. I currently work on production systems for institutional clients, including a Retrieval-Augmented Generation (RAG) system, and I'm increasingly focused on applied AI.
+
+My long-term goal is to go from *using* AI systems to *contributing* to them. That's why I study the fundamentals (probability, machine learning, software design) and build core components from scratch to understand how they actually work.
+
+## Tech
+
+- **Backend:** Python, FastAPI
+- **Frontend:** JavaScript, React, Vite
+- **Infrastructure:** Docker, Linux VPS administration, deployments and site migrations
+- **AI:** RAG pipelines, local open-source LLMs, evaluation of RAG systems
+- **E-learning:** Moodle, SCORM, H5P
+
+## Engineering principles
+
+I care about maintainable code: Clean Code, Domain-Driven Design, and classic design patterns (Repository, Strategy, Adapter), applied when the problem justifies them, not by default.
+
+## Research interests
+
+Post-deployment evaluation of RAG systems in public-sector contexts: how to measure whether a system that works in a demo keeps working in production.
+
+## Featured projects
+
+- [**project-name**](https://github.com/SebastianVillegasVelasquez/gestion-proyectos): one line on the problem it solves and the key technical decision.
+- [**project-name**](https://github.com/SebastianVillegasVelasquez/fontur-backend): one line.
+
+## Currently exploring
+
+- Building a vector similarity search engine from scratch (indexing, approximate nearest neighbors)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/sebastian-villegas-velasquez-43268234b/) · [Email](mailto:villegasvelasquezs@gmail.com)
+
+---
